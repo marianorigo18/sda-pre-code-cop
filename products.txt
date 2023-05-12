@@ -1,0 +1,1 @@
+[{"title":"Monitor","description":"Monitor de 24 pulgadas","price":10000,"thumbnail":"sin img","code":"9740","stock":10,"id":1},{"title":"Teclado","description":"Teclado mecanico","price":123,"thumbnail":"sin img","code":"5678","stock":20,"id":2}]
